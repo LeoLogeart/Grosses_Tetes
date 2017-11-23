@@ -11,6 +11,7 @@
         <activity android:name=".GrossesTetesActivity"
             android:configChanges="orientation"
             android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
             android:launchMode="singleTop">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
